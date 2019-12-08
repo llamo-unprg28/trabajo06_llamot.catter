@@ -13,5 +13,5 @@ if (edad<65):
     print("no recibe pension")
 if (edad>=65 and edad<70):
     print("recibe pension 65")
-if (edad>=70 and edad<90)
+if (edad>=70 and edad<90):
     print("recibe pension 75")
