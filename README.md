@@ -1,2 +1,6 @@
 # trabajo06_llamot.catter
 trabajo-06
+
+#INTEGRANTES:
+LLAMO TENORIO JHON
+CATTER ORTIZ CARLA
